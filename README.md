@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9CC7,25:FFC796,50:FFE87C,75:9CE8B0,100:8FC7FF&height=230&section=header&text=Hi%20there,%20I'm%20Aliah%20Ayyub%20👋✨&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Sistem%20Informasi%20Enthusiast%20|%20HCI%20Lover%20|%20Digital%20Equity%20Builder&descAlignY=58&descSize=17&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=700&color=FF6FA5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Menjaga+adab+di+antara+adzan+%26+algoritma+%F0%9F%8C%99;Merancang+teknologi+yang+ramah+pesantren+%F0%9F%95%8C;Membangun+jembatan+antara+nilai+%26+inovasi+%F0%9F%8C%89;Sistem+Informasi+%40+Universitas+Hasanuddin+%F0%9F%8E%93" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1200&color=FF6FA5&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%22Technology+is+not+just+doing+something+for+us.%22;%22It+is+doing+something+to+us.%22;—+Sherry+Turkle%2C+Profesor+MIT+%26+Ahli+Psikologi+Sosial-Teknologi" alt="typing-svg" />
 
 <br/>
 
