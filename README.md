@@ -24,34 +24,49 @@
 
 <table width="100%">
 <tr>
-<td width="30%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/238200622-c018050e-4ea6-4c1e-b12a-4a4ca44e8ed6.gif" width="100%"/>
+<h3 align="center">👩‍🎓&nbsp; Siapa Aku</h3>
+<p align="center">
+Mahasiswa <b>Sistem Informasi</b> di Universitas Hasanuddin yang lahir dari lorong sunyi pesantren. Enam tahun menjadi santriwati di <b>Ummul Mukminin</b> mengajarkanku bahwa proses panjang tanpa jalan pintas justru membentuk karakter yang paling kokoh.
+</p>
 
 </td>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
-| | |
-|---|---|
-| 👩‍🎓 **Nama Lengkap** | Aliah Ayyub |
-| 🏛️ **Universitas** | Universitas Hasanuddin |
-| 💻 **Program Studi** | Sistem Informasi |
-| 🕌 **Latar Belakang** | 6 tahun santriwati, Pesantren Puteri Ummul Mukminin |
-| 🥇 **Prestasi Utama** | Medali Emas Olimpiade Sains Seluruh Indonesia (OSSI) 2025 |
-| 🕋 **Pengalaman Sosial** | Muballigh Hijrah — mengajar tajwid & agama di desa terpencil Sulsel |
-| 🔭 **Sedang Fokus** | Analisis & Perancangan Sistem, Interaksi Manusia & Komputer |
-| ⚡ **Organisasi** | Society of Renewable Energy (SRE) UNHAS |
-| 🌍 **Impian Jangka Panjang** | Educational Technology Specialist & Hubert H. Humphrey Fellow |
-| 🎯 **Misi Hidup** | "Satu Pesantren, Connected Santri" — teknologi inklusif untuk santri Indonesia Timur |
-| 💬 **Prinsip Hidup** | *"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya"* |
-| ⚙️ **Fun Fact** | Menulis logika pemrograman dengan tulisan tangan sebelum punya akses laptop bebas! |
+<h3 align="center">🥇&nbsp; Titik Balik</h3>
+<p align="center">
+Kegagalan di seleksi <b>OSN Informatika</b> karena keterbatasan akses gawai justru jadi bahan bakar. Dari sana lahir <b>Medali Emas OSSI 2025</b> dan jalan SNBP menuju kursi kuliah Sistem Informasi.
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📿&nbsp; Turun ke Lapangan</h3>
+<p align="center">
+Sebagai <b>Muballigh Hijrah</b>, aku mengajar tajwid & nilai agama di desa terpencil Sulawesi Selatan tanpa bantuan internet — pengalaman yang membuka mataku tentang kesenjangan digital yang nyata di lapangan.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌍&nbsp; Yang Sedang Diperjuangkan</h3>
+<p align="center">
+Merancang ekosistem <b>"Satu Pesantren, Connected Santri"</b> — teknologi inklusif yang menopang nilai keagamaan santri, menuju Indonesia Emas 2045.
+</p>
 
 </td>
 </tr>
 </table>
 
-Aku percaya teknologi dan nilai yang kita jaga bukan dua kutub yang saling meniadakan.
-Ketika dirancang dengan hati, keduanya bisa **saling menopang** — membentuk karakter yang utuh, bukan mengikisnya. 🤍
+<div align="center">
+
+> 💭 *"Technology is not just doing something for us. It is doing something to us."*
+> — **Sherry Turkle**, Profesor MIT & Ahli Psikologi Sosial-Teknologi
+
+</div>
 
 <br/>
 
@@ -171,18 +186,20 @@ timeline
 <div align="center">
 
 <a href="mailto:aliahayyub@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&logoColor=white&label=&message=aliahayyub@gmail.com&color=D14836"/>
 </a>
+<br/><br/>
 <a href="https://www.linkedin.com/in/aliah-ayyub-23b4aa423" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&logoColor=white&label=&message=Aliah_Ayyub&color=0A66C2"/>
 </a>
+<br/><br/>
 <a href="https://instagram.com/aliah.asy" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&logoColor=white&label=&message=@aliah.asy&color=E4405F"/>
 </a>
 
 <br/><br/>
 
-📧 &nbsp;**aliahayyub@gmail.com** &nbsp;|&nbsp; 📸 &nbsp;**@aliah.asy** &nbsp;|&nbsp; 💼 &nbsp;**aliah-ayyub-23b4aa423**
+<sub>👆 klik langsung untuk menuju akunku</sub>
 
 </div>
 
